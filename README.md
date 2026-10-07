@@ -1,16 +1,21 @@
+[README.md](https://github.com/user-attachments/files/33156156/README.md)
+<p align="center">
+  <img src="assets/banner.svg" alt="Assia Yacine - Computer Science Student" width="100%" />
+</p>
+
 # 👋 Hey! Nice to see you.
 
 Welcome to my page!
 I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passionate about **web development, software engineering and cybersecurity**.
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=XSS-00&color=blueviolet&style=flat-square)
 
 ---
 
 ## 🔭 About me
 
-- 🎓 Pursuing a Bachelor's Degree in Computer Science at **University of Oran 1 Ahmed Ben Bella** 
-- 🌐 Currently building: a **Beach reservation website** and a **Dental clinic booking system**
+- 🎓 Pursuing a Bachelor's Degree in Computer Science at **University of Oran 1 Ahmed Ben Bella** (2025 – present)
+- 🌐 Currently building: a **beach reservation website** and a **dental clinic booking system**
 - 🛡️ Learning and practicing **network security testing** with Kali Linux
 - 🤖 Trained in **prompt engineering & generative AI** (Dubai Future Foundation)
 - 🌍 Looking to continue my studies in an **international environment** focused on technology and innovation
@@ -35,10 +40,8 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 
 ![Nmap](https://img.shields.io/badge/Nmap-004B8D?style=flat-square&logo=nmap&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-4682B4?style=flat-square)
 ![Bettercap](https://img.shields.io/badge/Bettercap-2E3440?style=flat-square)
 ![Zenmap](https://img.shields.io/badge/Zenmap-4682B4?style=flat-square)
-
 
 ---
 
@@ -46,8 +49,8 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 
 | Project | What it does | Tech | Status |
 |---------|--------------|------|--------|
-| [**Beach Reservation Website**](https://github.com/YOUR_USERNAME/beach-reservation) | Lets users book a spot online (solo or group) across three spot categories, removing the need for on-site reservations | HTML · CSS · JavaScript | 🟡 In progress (since July 2026) |
-| [**Dental Clinic Booking System**](https://github.com/YOUR_USERNAME/dental-clinic-booking) | Online appointment scheduling, available 24/7, with visit types: emergency, routine checkup, follow-up | HTML · CSS · JavaScript | 🟡 In progress (since August 2026) |
+| [**Beach Reservation Website**](https://github.com/XSS-00/beach-reservation) | Lets users book a spot online (solo or group) across three spot categories, removing the need for on-site reservations | HTML · CSS · JavaScript | 🟡 In progress (since July 2026) |
+| [**Dental Clinic Booking System**](https://github.com/XSS-00/dental-clinic-booking) | Online appointment scheduling, available 24/7, with visit types: emergency, routine checkup, follow-up | HTML · CSS · JavaScript | 🟡 In progress (since August 2026) |
 
 <!-- Once your repos exist, replace the links above with the real repo names. -->
 
@@ -55,8 +58,8 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 
 | Projects | Stars | Forks | Issues |
 |----------|-------|-------|--------|
-| [Beach Reservation](https://github.com/YOUR_USERNAME/beach-reservation) | ![stars](https://img.shields.io/github/stars/YOUR_USERNAME/beach-reservation?style=flat-square) | ![forks](https://img.shields.io/github/forks/YOUR_USERNAME/beach-reservation?style=flat-square) | ![issues](https://img.shields.io/github/issues/YOUR_USERNAME/beach-reservation?style=flat-square) |
-| [Dental Clinic Booking](https://github.com/YOUR_USERNAME/dental-clinic-booking) | ![stars](https://img.shields.io/github/stars/YOUR_USERNAME/dental-clinic-booking?style=flat-square) | ![forks](https://img.shields.io/github/forks/YOUR_USERNAME/dental-clinic-booking?style=flat-square) | ![issues](https://img.shields.io/github/issues/YOUR_USERNAME/dental-clinic-booking?style=flat-square) |
+| [Beach Reservation](https://github.com/XSS-00/beach-reservation) | ![stars](https://img.shields.io/github/stars/XSS-00/beach-reservation?style=flat-square) | ![forks](https://img.shields.io/github/forks/XSS-00/beach-reservation?style=flat-square) | ![issues](https://img.shields.io/github/issues/XSS-00/beach-reservation?style=flat-square) |
+| [Dental Clinic Booking](https://github.com/XSS-00/dental-clinic-booking) | ![stars](https://img.shields.io/github/stars/XSS-00/dental-clinic-booking?style=flat-square) | ![forks](https://img.shields.io/github/forks/XSS-00/dental-clinic-booking?style=flat-square) | ![issues](https://img.shields.io/github/issues/XSS-00/dental-clinic-booking?style=flat-square) |
 
 ---
 
@@ -73,8 +76,8 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 ## 📈 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=XSS-00&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XSS-00&layout=compact&hide_border=true" alt="Top languages" />
 </p>
 
 ---
