@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/33156505/README.1.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:22d3ee&height=230&section=header&text=ASSIA%20YACINE&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=62" alt="Assia Yacine banner" width="100%" />
