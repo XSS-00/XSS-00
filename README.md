@@ -19,7 +19,7 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 
 ## 🔭 About me
 
-- 🎓 Pursuing a Bachelor's Degree in Computer Science at **University of Oran 1 Ahmed Ben Bella** (2025 – present)
+- 🎓 Pursuing a Bachelor's Degree in Computer Science at **University of Oran 1 Ahmed Ben Bella** 
 - 🌐 Currently building: a **beach reservation website** and a **dental clinic booking system**
 - 🛡️ Learning and practicing **network security testing** with Kali Linux
 - 🤖 Trained in **prompt engineering & generative AI** (Dubai Future Foundation)
@@ -59,8 +59,8 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 
 ## 🎓 Training & certifications
 
-- 🌐 **Web Development**: Metwork STEAM, Oran (June – July 2026)
-- 🤖 **1 Million Prompters**: Dubai Center for Artificial Intelligence, Dubai Future Foundation (June 2026)
+- 🌐 **Web Development**: Metwork STEAM 
+- 🤖 **1 Million Prompters**: Dubai Center for Artificial Intelligence, Dubai Future Foundation 
 - 🧠 **AI Fluency: Framework & Foundation**: Anthropic
 - 💬 **Claude 101**: Anthropic
 - 🌿 **OECMs**: United Nations Development Programme (WCPA)
