@@ -1,14 +1,20 @@
-[README.md](https://github.com/user-attachments/files/33156156/README.md)
-<p align="center">
-  <img src="assets/banner.svg" alt="Assia Yacine - Computer Science Student" width="100%" />
-</p>
+[README (1).md](https://github.com/user-attachments/files/33156505/README.1.md)
+<div align="center">
 
-# 👋 Hey! Nice to see you.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:22d3ee&height=230&section=header&text=ASSIA%20YACINE&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Computer%20Science%20Student%20%E2%80%A2%20Web%20Development%20%E2%80%A2%20Cybersecurity&descSize=18&descAlignY=62" alt="Assia Yacine banner" width="100%" />
+
+<a href="https://github.com/XSS-00">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=650&lines=Hey!+I'm+Assia+%F0%9F%91%8B;Computer+Science+Student+from+Oran%2C+Algeria;Learning+web+dev+%26+cybersecurity;Building+things+and+breaking+them+(ethically)" alt="Typing intro" />
+</a>
+
+</div>
+
+---
+
+## 👋 Hey! Nice to see you.
 
 Welcome to my page!
 I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passionate about **web development, software engineering and cybersecurity**.
-
-![Profile views](https://komarev.com/ghpvc/?username=XSS-00&color=blueviolet&style=flat-square)
 
 ---
 
@@ -25,23 +31,19 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 
 ## 💻 Things I code with
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,html,css,js,git,github,vscode,windows,linux&perline=9" alt="Languages and tools" />
+</p>
 
 ### 🛡️ Security tools
 
-![Nmap](https://img.shields.io/badge/Nmap-004B8D?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Bettercap](https://img.shields.io/badge/Bettercap-2E3440?style=flat-square)
-![Zenmap](https://img.shields.io/badge/Zenmap-4682B4?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap_/_Zenmap-004B8D?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap and Zenmap" />
+  <img src="https://img.shields.io/badge/Bettercap-6E40C9?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Bettercap" />
+</p>
 
 ---
 
@@ -52,14 +54,7 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 | [**Beach Reservation Website**](https://github.com/XSS-00/beach-reservation) | Lets users book a spot online (solo or group) across three spot categories, removing the need for on-site reservations | HTML · CSS · JavaScript | 🟡 In progress (since July 2026) |
 | [**Dental Clinic Booking System**](https://github.com/XSS-00/dental-clinic-booking) | Online appointment scheduling, available 24/7, with visit types: emergency, routine checkup, follow-up | HTML · CSS · JavaScript | 🟡 In progress (since August 2026) |
 
-<!-- Once your repos exist, replace the links above with the real repo names. -->
-
-### 📊 Live repo stats (optional, works once repos exist)
-
-| Projects | Stars | Forks | Issues |
-|----------|-------|-------|--------|
-| [Beach Reservation](https://github.com/XSS-00/beach-reservation) | ![stars](https://img.shields.io/github/stars/XSS-00/beach-reservation?style=flat-square) | ![forks](https://img.shields.io/github/forks/XSS-00/beach-reservation?style=flat-square) | ![issues](https://img.shields.io/github/issues/XSS-00/beach-reservation?style=flat-square) |
-| [Dental Clinic Booking](https://github.com/XSS-00/dental-clinic-booking) | ![stars](https://img.shields.io/github/stars/XSS-00/dental-clinic-booking?style=flat-square) | ![forks](https://img.shields.io/github/forks/XSS-00/dental-clinic-booking?style=flat-square) | ![issues](https://img.shields.io/github/issues/XSS-00/dental-clinic-booking?style=flat-square) |
+<!-- Once your repos exist, replace the repo names in the links above with the real ones. -->
 
 ---
 
@@ -84,7 +79,11 @@ I'm **Assia**, a Computer Science student from **Oran, Algeria 🇩🇿**, passi
 
 ## 📫 Connect with me
 
-[![Email](https://img.shields.io/badge/Email-y__assia@outlook.fr-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:y_assia@outlook.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-assia--yacine-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assia-yacine)
+<p>
+  <a href="https://www.linkedin.com/in/assia-yacine"><img src="https://img.shields.io/badge/LinkedIn-Assia_Yacine-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:y_assia@outlook.fr"><img src="https://img.shields.io/badge/Email-y__assia%40outlook.fr-0078D4?style=for-the-badge" alt="Email" /></a>
+</p>
 
 > 💡 *Fun fact: I like breaking things (ethically) to learn how to secure them.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:8b5cf6&height=100&section=footer" width="100%" alt="" />
